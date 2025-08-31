@@ -7,4 +7,7 @@ export default defineConfig({
     tailwindcss(),
     vue()
   ],
+  build: {
+    outDir: "dist",
+  }
 })

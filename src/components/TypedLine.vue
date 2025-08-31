@@ -15,8 +15,8 @@
         },
         data(){
             return {
-                min_typing_delay: 35,
-                max_typing_delay: 80,
+                min_typing_delay: 80,
+                max_typing_delay: 200,
 
                 text_shown: ''
             }
