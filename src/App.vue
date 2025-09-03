@@ -18,7 +18,7 @@
       <div class="absolute top-1/2 left-1/4 w-48 h-48 bg-cyan-500/10 rounded-full blur-3xl animate-pulse" style="animation-delay: 4s;"></div>
     </div>
 
-    <!-- Shooting Stars -->
+    <!-- Shooting Stars 
     <div v-for="shootingStar in shootingStars" :key="shootingStar.id"
          class="absolute animate-shoot pointer-events-none"
          :style="{ 
@@ -33,7 +33,7 @@
         <div class="absolute right-1 top-0 w-8 h-0.5 bg-gradient-to-l from-white to-transparent rounded-full"></div>
         <div class="absolute -inset-1 bg-white rounded-full opacity-50 blur-sm"></div>
       </div>
-    </div>
+    </div>-->
 
     <div class="relative z-10 min-h-screen px-4 sm:px-6 lg:px-8 py-8">
       <!-- Mobile-first responsive container -->
